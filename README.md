@@ -1,7 +1,24 @@
+### **Objective of the Blinkit Sales Analysis Dashboard Project**
 
-# Blinkit Analysis
+The primary objective of this project is to develop an interactive sales analysis dashboard for **Blinkit**, a quick-commerce platform, using **Power BI**. This dashboard aims to provide actionable insights into various business performance metrics, enabling data-driven decision-making for stakeholders.
 
-Steps involved:
+Key objectives include:
+
+1. **Sales Performance Monitoring**: Visualize total sales, average sales, and the number of items sold across different outlets and locations. This helps identify high-performing outlets and areas needing improvement.
+
+2. **Outlet and Item Analysis**: Analyze sales performance by outlet size (Small, Medium, Large) and type (Supermarket, Grocery Store). Understanding item type sales distribution aids in optimizing inventory and marketing strategies.
+
+3. **Customer Feedback Evaluation**: Track the average customer rating to assess overall customer satisfaction and service quality.
+
+4. **Geographical Insights**: Examine sales trends across different locations (Tier 1, Tier 2, Tier 3 cities) to tailor region-specific business strategies.
+
+5. **Product Quality Analysis**: Monitor fat content distribution to understand consumer preferences for health-conscious products.
+
+6. **Data-Driven Decision-Making**: Provide filters and slicers for granular data exploration, allowing managers to drill down into specific time periods, outlet categories, and item types for better operational decisions.
+
+This dashboard ultimately aims to enhance operational efficiency, improve customer satisfaction, and boost overall revenue growth.
+
+**Steps involved:**
 
 1. Data Preparation
 
